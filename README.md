@@ -2,8 +2,8 @@
 
 Hello guys this is TDB - Twitchdarkbot
 
-We are making some twitch stuffs and discord bots.
-For more information, please see our website
+We are making some twitch stuffs and discord bots.</p>
+For more information, please see our website</p>
 https://www.twitchdarkbot.com/
 
 
