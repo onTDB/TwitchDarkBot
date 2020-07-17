@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Hello guys this is TDB - Twitchdarkbot
+
+We are making some twitch stuffs and discord bots.
+For more information, please see our website
+https://www.twitchdarkbot.com/
+
+
 <!--
 **TwitchDarkBot/TwitchDarkBot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
